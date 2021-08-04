@@ -1,0 +1,7 @@
+D:\C#\CellsSimulation\CellsSimulation\bin\Debug\CellsSimulation.exe.config
+D:\C#\CellsSimulation\CellsSimulation\bin\Debug\CellsSimulation.exe
+D:\C#\CellsSimulation\CellsSimulation\bin\Debug\CellsSimulation.pdb
+D:\C#\CellsSimulation\CellsSimulation\obj\Debug\CellsSimulation.csproj.CoreCompileInputs.cache
+D:\C#\CellsSimulation\CellsSimulation\obj\Debug\CellsSimulation.exe
+D:\C#\CellsSimulation\CellsSimulation\obj\Debug\CellsSimulation.pdb
+D:\C#\CellsSimulation\CellsSimulation\obj\Debug\CellsSimulation.csproj.AssemblyReference.cache
